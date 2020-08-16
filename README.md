@@ -14,6 +14,6 @@ A software engineer who is passionate about writing clean code which is easy to 
 - Kotlin 
 - Spring Framework
 - Docker
-- Javascript
+- JavaScript
 - React
 - Cypress

@@ -8,11 +8,12 @@ A software engineer who is passionate about writing clean code which is easy to 
 - :v: I’m looking to collaborate on open source projects, samples and articles that help people learn
 - :soccer: [Grêmio](https://gremio.net/) fan
 
-### 💻 Techonologies I like to work with:
+### 💻 Technologies I like to work with:
 
 - Java :coffee:
 - Kotlin 
 - Spring Framework
 - Docker
+- Javascript
 - React
 - Cypress

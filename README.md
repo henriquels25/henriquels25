@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Henrique Schmidt,
 
-A software engineer who is passionate about writing clean code which is easy to read, test, and that works. I also enjoy working with agile practices, especially with the Scrum and XP frameworks.
+A software engineer who is passionate about writing clean code which is easy to read, test, and that works. I also enjoy working with agile practices, especially with the [Scrum](https://www.scrum.org/) and [XP](http://www.extremeprogramming.org/) frameworks.
 
 - 🔭 I’m currently working as a Software Engineer at [Avenue Code](http://avenuecode.com/).
 - 🌱 Learning all about [Kotlin](https://kotlinlang.org/), [RxJava](https://github.com/ReactiveX/RxJava) and [Reactive with Spring](https://spring.io/reactive).
